@@ -23,8 +23,7 @@ value(s) you've just added.
 Press Enter to Continue
 
 Successfully received certificate.
-Certificate is saved at: C:\Certbot\live\vtt.mojicasmith.com\fullchain.pem
-Key is saved at:         C:\Certbot\live\vtt.mojicasmith.com\privkey.pem
+
 This certificate expires on 2024-12-24.
 These files will be updated when the certificate renews.
 
